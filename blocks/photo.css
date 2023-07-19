@@ -8,11 +8,9 @@
 }
 
 .photo__grid {
-  display: flex;
-  align-content: center;
-  align-items: center;
+  display: grid;
   padding: 0;
-  margin: 0;
+  margin: auto;
   gap: 16px;
 }
 
