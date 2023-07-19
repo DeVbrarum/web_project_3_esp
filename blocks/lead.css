@@ -1,0 +1,165 @@
+.lead {
+  margin: 0;
+  padding: 0;
+}
+
+.lead__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+}
+
+.lead__title {
+  margin: 0;
+  padding: 0;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 1.0;
+
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.lead__subtitle {
+  padding: 0;
+  margin: 0;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.lead__image {
+  margin: 0;
+  padding: 0;
+}
+
+.lead__image-photo {
+  margin: 0;
+  padding: 0;
+  background-image: url(../images/Foto_costera.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+@media screen and (min-width: 1024px) {
+  .lead {
+    margin-top: 90px;
+  }
+
+  .lead__container {
+    gap: 32px;
+    width: calc(100vw - 487px);
+    max-width: 793px;
+    margin-left: 243px;
+  }
+
+  .lead__title {
+    height: 200px;
+    max-width: 793px;
+  }
+
+  .lead__subtitle {
+    height: 72px;
+    max-width: 793px;
+  }
+
+  .lead__image {
+    margin: 0;
+    width: 984px;
+    height: 615px;
+    margin: 0;
+    padding: 0;
+  }
+
+  .lead__image-photo {
+    margin-top: 32px;
+    padding: 0;
+    background-image: url(../images/Foto_costera.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+  }
+}
+
+@media screen and (max-width: 1024px) and (min-width: 542px) {
+  .lead {
+    width: 100%;
+    margin-top: 90px;
+    margin-bottom: 52px;
+  }
+
+  .lead__container {
+    margin: auto;
+    width: calc(100vw - 48px);
+    gap: 69px;
+    padding: 0;
+  }
+
+  .lead__title {
+    height: 200px;
+    max-width: 720px;
+  }
+
+  .lead__subtitle {
+    height: 72px;
+    max-width: 720px;
+  }
+
+  .lead__image {
+    margin: 0;
+    width: 100vw;
+    height: calc(100vh - 356px);
+  }
+
+  .lead__image-photo {
+    background-size: cover;
+  }
+}
+
+@media screen and (max-width: 541px) and (min-width: 320px) {
+  .lead {
+    margin-top: 50.15px;
+    margin-bottom: 44px;
+  }
+
+  .lead__container {
+    width: calc(100% - 32px);
+    gap: 40px;
+    padding: 0;
+    margin-left: 16px;
+  }
+
+  .lead__title {
+    font-size: 40px;
+    line-height: 44px;
+    height: 88px;
+  }
+
+  .lead__subtitle {
+    font-size: 16px;
+    line-height: 20px;
+    height: 40px;
+  }
+
+  .lead__image {
+    margin: 0;
+    width: 100vw;
+    height: calc(100vh - 630px);
+  }
+
+  .lead__image-photo {
+    background-position: bottom;
+    background-size: cover;
+  }
+}
