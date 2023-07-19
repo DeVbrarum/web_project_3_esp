@@ -75,11 +75,8 @@
   }
 
   .lead__image {
-    margin: 0;
     width: 984px;
     height: 615px;
-    margin: 0;
-    padding: 0;
   }
 
   .lead__image-photo {
@@ -117,7 +114,6 @@
   }
 
   .lead__image {
-    margin: 0;
     width: 100vw;
     height: calc(100vh - 356px);
   }
@@ -153,7 +149,6 @@
   }
 
   .lead__image {
-    margin: 0;
     width: 100vw;
     height: calc(100vh - 630px);
   }
