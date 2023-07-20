@@ -46,7 +46,7 @@
 .lead__image-photo {
   margin: 0;
   padding: 0;
-  background-image: url(../images/foto_costera.jpg);
+  background-image: url(../images/Foto_costera.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -81,11 +81,6 @@
 
   .lead__image-photo {
     margin-top: 32px;
-    padding: 0;
-    background-image: url(../images/Foto_costera.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
   }
 }
 
