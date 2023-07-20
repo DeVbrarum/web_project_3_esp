@@ -1,4 +1,20 @@
 # Proyecto 4: De patria a patria
+***
+![ Aprender-a-aprender-1](./images/Portada-De-patria-a-patria.png)
+
+***
+
+Visita la página >> https://devbrarum.github.io/web_project_3_esp/
+
+### Actualizaciones
+
+* Estructura BEM :ok_hand:
+* Uso de reglas-at @import
+* Aplicación de responsividad.
+***
+
+
+
 ### Descripción general    
 * Introducción  
 * Figma  
@@ -6,7 +22,7 @@
   
 **Introducción**    
   
-Este es un proyecto que muestra las ciudades natales de algunos de los empleados de Practicum. Lo hemos diseñado de tal modo que todos los elementos se muestren correctamente en los tamaños de pantalla más habituales. Recomendamos invertir más tiempo en completar este proyecto, ya que es más difícil que los anteriores.     
+Este es un proyecto que muestra las ciudades natales de algunos de los empleados de Practicum. Lo hemos diseñado de tal modo que todos los elementos se muestren correctamente en los tamaños de pantalla más habituales. Recomendamos invertir más tiempo en completar este proyecto, ya que es más difícil que los anteriores.
   
 **Figma**  
   

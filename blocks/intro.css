@@ -15,8 +15,8 @@
 .intro__title {
   padding: 0;
   margin: 0;
-  font-family: "Inter";
-  font-style: normal;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: bold;
   font-weight: 900;
   font-size: 54px;
   line-height: 58px;
@@ -36,7 +36,7 @@
 .intro__paragraph-text {
   margin: 0;
   padding: 0;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -47,7 +47,7 @@
 .intro__paragraph-author {
   margin: 0;
   padding: 0;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -59,7 +59,7 @@
 .intro__text {
   padding: 0;
   margin: 0;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -82,7 +82,7 @@
 
   .intro__content {
     width: calc(100vw - 558px);
-    max-width: 1017px;
+    max-width: 722px;
   }
   .intro__paragraph {
     margin-bottom: 32px;
@@ -92,6 +92,10 @@
     position: relative;
     right: 0;
     bottom: 13px;
+  }
+
+  .intro__text {
+    max-width: 720px;
   }
 }
 
