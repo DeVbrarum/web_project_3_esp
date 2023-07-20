@@ -4,7 +4,13 @@
 
 ***
 
-Visita la página >> https://devbrarum.github.io/web_project_3_esp/
+###Visita la página >> https://devbrarum.github.io/web_project_3_esp/
+
+### Descripción general  
+
+**Introducción**    
+  
+Este es un proyecto que muestra las ciudades natales de algunos de los empleados de Practicum. Lo hemos diseñado de tal modo que todos los elementos se muestren correctamente en los tamaños de pantalla más habituales. Recomendamos invertir más tiempo en completar este proyecto, ya que es más difícil que los anteriores.
 
 ### Actualizaciones
 
@@ -13,16 +19,14 @@ Visita la página >> https://devbrarum.github.io/web_project_3_esp/
 * Aplicación de responsividad.
 ***
 
+### Tecnologias Usadas
 
+* HTML
+* CSS
+* Visual Studio
+* Figma
+***
 
-### Descripción general    
-* Introducción  
-* Figma  
-* Imágenes  
-  
-**Introducción**    
-  
-Este es un proyecto que muestra las ciudades natales de algunos de los empleados de Practicum. Lo hemos diseñado de tal modo que todos los elementos se muestren correctamente en los tamaños de pantalla más habituales. Recomendamos invertir más tiempo en completar este proyecto, ya que es más difícil que los anteriores.
   
 **Figma**  
   
@@ -33,3 +37,4 @@ Este es un proyecto que muestra las ciudades natales de algunos de los empleados
 A la hora de trabajar, debes optar por exportar las imágenes directamente desde Figma; te recomendamos hacerlo para practicar más. No olvides optimizarlas [aquí](https://tinypng.com/), para que tu proyecto cargue más rápido.   
   
 ¡Mucha suerte y que te lo pases bien! 
+
