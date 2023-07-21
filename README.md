@@ -6,6 +6,10 @@
 
 ### Visita la página >> 
 https://devbrarum.github.io/web_project_3_esp/
+<<<<<<< HEAD
+=======
+***
+>>>>>>> 7750ede1d2d7553236c797426151119bbf40f6de
 
 ### Descripción general  
 
