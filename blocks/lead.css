@@ -108,12 +108,12 @@
 
   .lead__image {
     width: 100vw;
-    height: calc(100vh - 356px);
+    max-height: calc(100vh - 356px);
   }
 
   .lead__image-photo {
     width: 100vw;
-    height: calc(100vh - 356px);
+    max-height: calc(100vh - 356px);
     object-fit: cover;
   }
 }
@@ -145,12 +145,12 @@
 
   .lead__image {
     width: 100vw;
-    height: calc(100vh - 630px);
+    max-height: calc(100vh - 630px);
   }
 
   .lead__image-photo {
     width: 100vw;
-    height: calc(100vh - 630px);
+    max-height: calc(100vh - 630px);
     object-fit: cover;
   }
 }
