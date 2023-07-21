@@ -46,10 +46,8 @@
 .lead__image-photo {
   margin: 0;
   padding: 0;
-  background-image: url(../images/Foto_costera.jpg);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: contain;
+  object-fit: contain;
+  object-position: bottom;
 }
 
 @media screen and (min-width: 1024px) {
@@ -116,7 +114,7 @@
   .lead__image-photo {
     width: 100vw;
     height: calc(100vh - 356px);
-    background-size: cover;
+    object-fit: cover;
   }
 }
 
@@ -153,7 +151,6 @@
   .lead__image-photo {
     width: 100vw;
     height: calc(100vh - 630px);
-    background-position: bottom;
-    background-size: cover;
+    object-fit: cover;
   }
 }
